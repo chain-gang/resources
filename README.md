@@ -2,6 +2,9 @@
 
 ## learning
 
+Using the Hyperledger Burrow EVM inside Hyperledger Fabric (replay):
+https://www.youtube.com/watch?v=Rr1Qi-n8vag
+
 
 
 
