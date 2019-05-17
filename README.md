@@ -7,6 +7,7 @@ Using the Hyperledger Burrow EVM inside Hyperledger Fabric (replay): https://www
 ## examples
 
 dockerized (kubernets compatable) farbic deployment: https://github.com/chain-gang/fabric-evm-ibm-container-service
+ibp on icp (ish) https://developer.ibm.com/tutorials/ibm-blockchain-platform-for-icp-full-fabric-deployment/
 
 ## questions
 kubernetes rocket chat: https://chat.hyperledger.org/channel/fabric-evm
